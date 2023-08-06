@@ -671,7 +671,7 @@ header .icons #menu-bars {
   }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 991px) {
   html {
     font-size: 50%;
   }
